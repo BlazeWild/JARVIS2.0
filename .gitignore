@@ -52,3 +52,7 @@ friday/
 *.tmp
 *.bak
 pyaudio-*.whl
+
+# Personal notes
+helpme.md
+helps.md
